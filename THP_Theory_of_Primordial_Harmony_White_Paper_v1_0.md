@@ -1,6 +1,6 @@
 # Theory of Primordial Harmony (TPH) – A Proposed Framework for Bridging the Classical and Quantum Realms
-**White Paper v1.0.4**__
-**Author:** Rogério Figurelli__
+**White Paper v1.0.4**
+**Author:** Rogério Figurelli
 **Date:** May 13, 2025
 
 ### Abstract
@@ -97,37 +97,37 @@ The Theory of Primordial Harmony demonstrates that **universal principles can be
 
 ## References
 
-\[1] R. Figurelli, *Modeling the Immeasurable: A Theory of Entanglement and Emergence*, 2022. Available at: [https://github.com/rfigurelli/Modeling-the-Immeasurable](https://github.com/rfigurelli/Modeling-the-Immeasurable)__
+\[1] R. Figurelli, *Modeling the Immeasurable: A Theory of Entanglement and Emergence*, 2022. Available at: [https://github.com/rfigurelli/Modeling-the-Immeasurable](https://github.com/rfigurelli/Modeling-the-Immeasurable)
 
-\[2] R. Horodecki, P. Horodecki, M. Horodecki, and K. Horodecki, "Quantum entanglement," *Rev. Mod. Phys.*, vol. 81, no. 2, pp. 865–942, 2009. Available at: [https://doi.org/10.1103/RevModPhys.81.865](https://doi.org/10.1103/RevModPhys.81.865)__
+\[2] R. Horodecki, P. Horodecki, M. Horodecki, and K. Horodecki, "Quantum entanglement," *Rev. Mod. Phys.*, vol. 81, no. 2, pp. 865–942, 2009. Available at: [https://doi.org/10.1103/RevModPhys.81.865](https://doi.org/10.1103/RevModPhys.81.865)
 
-\[3] C. E. Shannon, "A mathematical theory of communication," *Bell Syst. Tech. J.*, vol. 27, pp. 379–423, 623–656, 1948. Available at: [https://ieeexplore.ieee.org/document/6773024](https://ieeexplore.ieee.org/document/6773024)__
+\[3] C. E. Shannon, "A mathematical theory of communication," *Bell Syst. Tech. J.*, vol. 27, pp. 379–423, 623–656, 1948. Available at: [https://ieeexplore.ieee.org/document/6773024](https://ieeexplore.ieee.org/document/6773024)
 
-\[4] A. Einstein, B. Podolsky, and N. Rosen, "Can quantum-mechanical description of physical reality be considered complete?," *Phys. Rev.*, vol. 47, no. 10, pp. 777–780, 1935. Available at: [https://doi.org/10.1103/PhysRev.47.777](https://doi.org/10.1103/PhysRev.47.777)__
+\[4] A. Einstein, B. Podolsky, and N. Rosen, "Can quantum-mechanical description of physical reality be considered complete?," *Phys. Rev.*, vol. 47, no. 10, pp. 777–780, 1935. Available at: [https://doi.org/10.1103/PhysRev.47.777](https://doi.org/10.1103/PhysRev.47.777)
 
-\[5] L. Boltzmann, "Further studies on the thermal equilibrium of gas molecules," *Wien. Ber.*, vol. 66, pp. 275–370, 1872. Available at: [https://en.wikipedia.org/wiki/Ludwig\_Boltzmann#Works](https://en.wikipedia.org/wiki/Ludwig_Boltzmann#Works)__
+\[5] L. Boltzmann, "Further studies on the thermal equilibrium of gas molecules," *Wien. Ber.*, vol. 66, pp. 275–370, 1872. Available at: [https://en.wikipedia.org/wiki/Ludwig\_Boltzmann#Works](https://en.wikipedia.org/wiki/Ludwig_Boltzmann#Works)
 
-\[6] J. Gleick, *Chaos: Making a New Science*, Viking, 1987. Available at: [https://en.wikipedia.org/wiki/Chaos:\_Making\_a\_New\_Science](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)__
+\[6] J. Gleick, *Chaos: Making a New Science*, Viking, 1987. Available at: [https://en.wikipedia.org/wiki/Chaos:\_Making\_a\_New\_Science](https://en.wikipedia.org/wiki/Chaos:_Making_a_New_Science)
 
-\[7] I. Prigogine and I. Stengers, *Order Out of Chaos: Man’s New Dialogue with Nature*, Bantam Books, 1984. Available at: [https://en.wikipedia.org/wiki/Order\_Out\_of\_Chaos\_(book)](https://en.wikipedia.org/wiki/Order_Out_of_Chaos_%28book%29)__
+\[7] I. Prigogine and I. Stengers, *Order Out of Chaos: Man’s New Dialogue with Nature*, Bantam Books, 1984. Available at: [https://en.wikipedia.org/wiki/Order\_Out\_of\_Chaos\_(book)](https://en.wikipedia.org/wiki/Order_Out_of_Chaos_%28book%29)
 
-\[8] D. Bohm, *Wholeness and the Implicate Order*, Routledge, 1980. Available at: [https://en.wikipedia.org/wiki/Wholeness\_and\_the\_Implicate\_Order](https://en.wikipedia.org/wiki/Wholeness_and_the_Implicate_Order)__
+\[8] D. Bohm, *Wholeness and the Implicate Order*, Routledge, 1980. Available at: [https://en.wikipedia.org/wiki/Wholeness\_and\_the\_Implicate\_Order](https://en.wikipedia.org/wiki/Wholeness_and_the_Implicate_Order)
 
-\[9] S. Hawking, *A Brief History of Time*, Bantam Books, 1988. Available at: [https://en.wikipedia.org/wiki/A\_Brief\_History\_of\_Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)__
+\[9] S. Hawking, *A Brief History of Time*, Bantam Books, 1988. Available at: [https://en.wikipedia.org/wiki/A\_Brief\_History\_of\_Time](https://en.wikipedia.org/wiki/A_Brief_History_of_Time)
 
-\[10] E. Morin, *La Méthode*, Éditions du Seuil, 1977–2004. Available at: [https://fr.wikipedia.org/wiki/Edgar\_Morin#La\_M%C3%A9thode](https://fr.wikipedia.org/wiki/Edgar_Morin#La_M%C3%A9thode)__
+\[10] E. Morin, *La Méthode*, Éditions du Seuil, 1977–2004. Available at: [https://fr.wikipedia.org/wiki/Edgar\_Morin#La\_M%C3%A9thode](https://fr.wikipedia.org/wiki/Edgar_Morin#La_M%C3%A9thode)
 
-\[11] M. Mitchell, *Complexity: A Guided Tour*, Oxford University Press, 2009. Available at: [https://en.wikipedia.org/wiki/Complexity:\_A\_Guided\_Tour](https://en.wikipedia.org/wiki/Complexity:_A_Guided_Tour)__
+\[11] M. Mitchell, *Complexity: A Guided Tour*, Oxford University Press, 2009. Available at: [https://en.wikipedia.org/wiki/Complexity:\_A\_Guided\_Tour](https://en.wikipedia.org/wiki/Complexity:_A_Guided_Tour)
 
-\[12] J. H. Holland, *Hidden Order: How Adaptation Builds Complexity*, Addison-Wesley, 1995. Available at: [https://en.wikipedia.org/wiki/Hidden\_Order\_(book)](https://en.wikipedia.org/wiki/Hidden_Order_%28book%29)__
+\[12] J. H. Holland, *Hidden Order: How Adaptation Builds Complexity*, Addison-Wesley, 1995. Available at: [https://en.wikipedia.org/wiki/Hidden\_Order\_(book)](https://en.wikipedia.org/wiki/Hidden_Order_%28book%29)
 
-\[13] D. Meadows, *Thinking in Systems: A Primer*, Chelsea Green Publishing, 2008. Available at: [https://en.wikipedia.org/wiki/Thinking\_in\_Systems](https://en.wikipedia.org/wiki/Thinking_in_Systems)__
+\[13] D. Meadows, *Thinking in Systems: A Primer*, Chelsea Green Publishing, 2008. Available at: [https://en.wikipedia.org/wiki/Thinking\_in\_Systems](https://en.wikipedia.org/wiki/Thinking_in_Systems)
 
-\[14] T. Deacon, *Incomplete Nature: How Mind Emerged from Matter*, W. W. Norton & Company, 2011. Available at: [https://en.wikipedia.org/wiki/Incomplete\_Nature](https://en.wikipedia.org/wiki/Incomplete_Nature)__
+\[14] T. Deacon, *Incomplete Nature: How Mind Emerged from Matter*, W. W. Norton & Company, 2011. Available at: [https://en.wikipedia.org/wiki/Incomplete\_Nature](https://en.wikipedia.org/wiki/Incomplete_Nature)
 
 \[15] B. Swimme and M. Tucker, *Journey of the Universe*, Yale University Press, 2011. Available at: [https://en.wikipedia.org/wiki/Journey\_of\_the\_Universe](https://en.wikipedia.org/wiki/Journey_of_the_Universe)
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)__
+Creative Commons Attribution 4.0 International (CC BY 4.0)
 © 2025 Rogério Figurelli. This is a conceptual framework provided “as is” without warranty.
