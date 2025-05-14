@@ -37,13 +37,13 @@ In this view, harmony (H) is not merely a metaphor, but a unifying variable that
 
 This proposal is inspired by parallels between quantum entanglement and the functional connectivity of adaptive systems. It does not assume that macroscopic processes literally share the properties of quantum phenomena, but rather that there is epistemological value in applying this metaphor of interdependent coherence.
 
-> **Note:** A generalized version of the harmony equation introduces *sensitivity exponents* (γ, δ), which allow for more nuanced modeling of how systems respond to connection and disorder:
+> **Note:** A generalized version of the harmony equation introduces sensitivity exponents (γ, δ), allowing for more nuanced modeling of how systems respond to connection and disorder:
 >
 > $$
 > H = \frac{QE^\gamma}{1 + S^\delta}
 > $$
 >
-> In this paper, we assume **γ = 1**, meaning the system's response to coherence (QE) is linear. The δ parameter remains adjustable to reflect varying systemic sensitivity to entropy. This choice simplifies the model while preserving flexibility in how disorder impacts harmony. Future studies may explore variations in γ to capture non-linear sensitivity to coherence.
+> In this paper, we assume **γ = 1** and **δ = 1**, meaning the system's response to both coherence (QE) and entropy (S) is linear. This simplifies the model while maintaining its conceptual clarity. Future work may explore non-linear variations to better reflect diverse system dynamics.
 
 ## Simulations and Interpretation
 
