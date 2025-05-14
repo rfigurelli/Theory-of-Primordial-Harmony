@@ -1,9 +1,9 @@
 # Theory of Primordial Harmony (TPH) – A Proposed Framework for Bridging the Classical and Quantum Realms
-**White Paper v1.0.0**
+**White Paper v1.0.2**
 **Author:** Rogério Figurelli
 **Date:** May 13, 2025
 
-### Abstract 
+### Abstract
 
 The Theory of Primordial Harmony (TPH) proposes a novel framework for understanding systemic coherence across scales—from subatomic particles to ecosystems and human institutions. It is based on the relationship between two universal forces: **quantum entanglement (QE)**, representing deep relational coherence, and **entropy (S)**, representing systemic disorder. Rather than being driven by force or matter alone, harmony arises when connection outweighs disintegration, and relational unity overcomes contextual fragmentation.
 
@@ -36,6 +36,8 @@ This formulation bridges two foundational domains of physics: the **quantum** an
 By placing QE and S in a single equation, TPH establishes a conceptual bridge where **quantum relationality** and **classical disorder** are seen not as separate paradigms, but as complementary forces shaping coherence at all scales. It proposes that systems—whether atomic, biological, or social—persist and evolve not solely by resisting entropy, but by cultivating entangled, coherent relations that counterbalance disorder.
 
 In this view, harmony (H) is not merely a metaphor, but a unifying variable that translates micro-level quantum integrity into macro-level systemic sustainability. At the quantum level, coherence allows particles to maintain instant correlations regardless of distance. At the macro level, harmony reflects a system's ability to integrate diverse components—biological, social, or ecological—into a stable and adaptive whole. H thus functions as a bridge variable: it expresses how subtle relational coherence at the smallest scales can ripple outward, influencing the stability and sustainability of large-scale systems. This allows us to conceptualize harmony not as static perfection, but as a dynamic equilibrium between the entropic forces of dispersion and the connective forces of entanglement. The result is a cross-scale logic of organization, revealing how the quantum nature of connection and the classical nature of decay interact to shape the evolution of complexity. \[7]
+
+This proposal is inspired by parallels between quantum entanglement and the functional connectivity of adaptive systems. It does not assume that macroscopic processes literally share the properties of quantum phenomena, but rather that there is epistemological value in applying this metaphor of interdependent coherence.
 
 ## Simulations and Interpretation
 
