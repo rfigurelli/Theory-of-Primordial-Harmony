@@ -3,7 +3,7 @@
 **Author:** Rogério Figurelli
 **Date:** May 13, 2025
 
-### Abstract
+### Abstract 
 
 The Theory of Primordial Harmony (TPH) proposes a novel framework for understanding systemic coherence across scales—from subatomic particles to ecosystems and human institutions. It is based on the relationship between two universal forces: **quantum entanglement (QE)**, representing deep relational coherence, and **entropy (S)**, representing systemic disorder. Rather than being driven by force or matter alone, harmony arises when connection outweighs disintegration, and relational unity overcomes contextual fragmentation.
 
