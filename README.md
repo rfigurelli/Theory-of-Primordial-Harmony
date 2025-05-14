@@ -2,6 +2,7 @@
 **White Paper v1.0.4**
 **Author:** Rogério Figurelli
 **Date:** May 13, 2025
+https://github.com/rfigurelli/Theory-of-Primordial-Harmony/blob/main/THP_Theory_of_Primordial_Harmony_White_Paper_v1_0.md
 
 ### Abstract
 
@@ -14,3 +15,4 @@ This framework aligns with the arc of cosmic evolution: the universe began in a 
 TPH reflects this universal movement—from chaos to complexity, from fragmentation to integration—suggesting that harmony is not static, but an emergent property of systems that cultivate resilient connections amidst disorder. \[6]
 
 This mathematical simplicity hides a profound intuition: **harmony results from meaningful connection in the midst of entropic complexity**. \[1]
+
