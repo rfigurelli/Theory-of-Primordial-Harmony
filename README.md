@@ -37,6 +37,8 @@ By placing QE and S in a single equation, TPH establishes a conceptual bridge wh
 
 In this view, harmony (H) is not merely a metaphor, but a unifying variable that translates micro-level quantum integrity into macro-level systemic sustainability. At the quantum level, coherence allows particles to maintain instant correlations regardless of distance. At the macro level, harmony reflects a system's ability to integrate diverse components—biological, social, or ecological—into a stable and adaptive whole. H thus functions as a bridge variable: it expresses how subtle relational coherence at the smallest scales can ripple outward, influencing the stability and sustainability of large-scale systems. This allows us to conceptualize harmony not as static perfection, but as a dynamic equilibrium between the entropic forces of dispersion and the connective forces of entanglement. The result is a cross-scale logic of organization, revealing how the quantum nature of connection and the classical nature of decay interact to shape the evolution of complexity. \[7]
 
+> Note: A generalized version of the harmony equation includes sensitivity exponents (γ, δ), allowing more flexible modeling across systems. In this paper, we assume γ = δ = 1 for simplicity, but future work expands on this foundation.
+
 ## Simulations and Interpretation
 
 This section demonstrates how harmony (H) can evolve through practical adjustments in a system, showing how **micro-level factors (relational coherence, QE)** and **macro-level influences (systemic disorder, S)** interact to shape outcomes. Each example includes an initial state, interventions targeting QE and S, and the resulting final state.
