@@ -2,7 +2,8 @@
 **White Paper v1.0.4**
 **Author:** Rogério Figurelli
 **Date:** May 13, 2025
-https://github.com/rfigurelli/Theory-of-Primordial-Harmony/blob/main/THP_Theory_of_Primordial_Harmony_White_Paper_v1_0.md
+
+**Last update:** https://github.com/rfigurelli/Theory-of-Primordial-Harmony/blob/main/THP_Theory_of_Primordial_Harmony_White_Paper_v1_0.md
 
 ### Abstract
 
