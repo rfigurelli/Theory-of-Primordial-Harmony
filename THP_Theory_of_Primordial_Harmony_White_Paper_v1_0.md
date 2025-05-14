@@ -1,7 +1,5 @@
 # Theory of Primordial Harmony (TPH) – A Proposed Framework for Bridging the Classical and Quantum Realms
-**White Paper v1.0.4**
-**Author:** Rogério Figurelli
-**Date:** May 13, 2025
+**White Paper v1.0.4 – Author: Rogério Figurelli – Date: May 13, 2025**
 
 ### Abstract
 
@@ -135,5 +133,4 @@ The Theory of Primordial Harmony demonstrates that **universal principles can be
 
 ## License
 
-Creative Commons Attribution 4.0 International (CC BY 4.0)
-© 2025 Rogério Figurelli. This is a conceptual framework provided “as is” without warranty.
+© 2025 Rogério Figurelli · [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
